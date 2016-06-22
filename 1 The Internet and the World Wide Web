@@ -13,3 +13,57 @@ Web Site over Time
     -Website of white house through 10 years
 
 Web Address - URLs and URIs
+    -URL: Uniform Resource Locator
+    -URN: Uniform Resource Name
+
+Components of the Web
+    -HTTP Client
+    -HTTP Server
+    -Network
+
+Client-side Web Parts: Markup, Style, Function
+    -Structure / Markup (HTML, XHTML)
+        Structure
+        Content
+    -Style / Presentation (CSS)
+        Style
+        Presentation
+        Appearance
+    -Function (Javascript)
+        Actions
+        Manipulations
+
+Our Solar System Example:
+    Markup + Style + Function
+
+What happens when you go to www.harvard.edu?
+    -Your browser
+    -Site server
+    -Site creation
+    -Content creation
+
+Markup Evolution and Standards
+    -HTML5
+    - HTML/SGML/XML different syntax
+
+Most commonly used elements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
