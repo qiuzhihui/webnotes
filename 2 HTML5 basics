@@ -6,3 +6,7 @@ Make a mini site
     -links href
     -css style.css
     -images
+
+Publish the Mini site to he linux server
+    -publich_html folder
+    -
