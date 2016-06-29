@@ -13,6 +13,48 @@ Developer tools
 		- response time of HTTP requests.
 
 Final Project
+	- Plan a small-scale website
+		- 6 to 12 pages
+	- Implement 3 pages of the site
+		-Home page, secondary page, and page that includes the use of JavaScript
+
+CSS
+	- in line 
+	- external
+	- embedded
+
+Key words:
+	- Body
+
+Color websites:
+	- color.adobe.com
+	- colorzilla.com
+
+	-link-blue
+	-visited-purple
+	-hover-unstyled
+	-active -red
+
+
+Example 
+			-elements   class        ID
+example 	 body      .warning     #danger
+Times   	 many  		many		once
+specificity  least		middle		most
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
